@@ -1,6 +1,7 @@
 # software-engineering
 # 团队 Logo 设计：熵减精灵
 
+![团队Logo](代码小精灵.png)
 
 ## 💡 设计理念
 

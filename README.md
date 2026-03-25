@@ -35,14 +35,12 @@
 | 精灵过于“怪物化”，不够可爱 | 增加 `cute, expressive eyes, cheerful expression`，降低 `--stylize` |
 | Git 分支树不明显 | 改为 `Git branch tree with merging lines, clearly showing node and branch` |
 | Logo 缩小后细节丢失 | 增加 `clean background, simple composition, vector-friendly` |
-| 海报光影平淡 | 增加 `dramatic lighting, rim light, focal point on the wand tip` |
 
 ---
 
 ## 🎨 最终成果
 
 - **Logo**：一只专注又俏皮的精灵，将乱麻般的电线编织成 Git 分支树，色彩明亮，风格独特。  
-- **海报**：超现实主义场景，精灵用魔法将混沌代码漩涡重塑为 Github 贡献图雕塑，戏剧化光影，适合作为团队封面。  
 
 
  
